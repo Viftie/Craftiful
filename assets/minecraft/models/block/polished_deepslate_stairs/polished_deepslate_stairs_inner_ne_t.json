@@ -1,0 +1,12 @@
+{
+	"parent": "block/stairs/stairs_inner_ne_t",
+	"textures": {
+		"full": "minecraft:block/deepslate/polished_deepslate",
+		"hori": "minecraft:block/deepslate/polished_deepslate_slab",
+		"vert": "minecraft:block/deepslate/polished_deepslate_slab_v",
+		"se":   "minecraft:block/deepslate/polished_deepslate_stairs_0",
+		"sw":   "minecraft:block/deepslate/polished_deepslate_stairs_1",
+		"nw": 	"minecraft:block/deepslate/polished_deepslate_stairs_2",
+		"ne": 	"minecraft:block/deepslate/polished_deepslate_stairs_3"
+	}
+}

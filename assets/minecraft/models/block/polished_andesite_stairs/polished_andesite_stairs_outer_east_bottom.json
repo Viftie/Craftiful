@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/stairs/stairs_outer_east_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_andesite",
+        "slab":  "minecraft:block/andesite/polished_andesite_slab",
+		"north": "minecraft:block/andesite/polished_andesite_stairs_1",
+		"east":  "minecraft:block/andesite/polished_andesite_stairs_0",
+        "south": "minecraft:block/andesite/polished_andesite_stairs_1",
+        "west":  "minecraft:block/andesite/polished_andesite_stairs_0",
+        "up":    "minecraft:block/andesite/polished_andesite_stairs_1"
+	}
+}

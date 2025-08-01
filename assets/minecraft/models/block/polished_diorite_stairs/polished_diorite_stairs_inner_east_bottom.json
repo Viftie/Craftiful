@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_east_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_diorite",
+		"south": "minecraft:block/diorite/polished_diorite_stairs_0",
+		"west":  "minecraft:block/diorite/polished_diorite_stairs_1",
+        "up":    "minecraft:block/diorite/polished_diorite_stairs_3"
+	}
+}

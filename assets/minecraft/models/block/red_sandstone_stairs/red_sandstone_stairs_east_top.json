@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/stairs/pillared_stairs_east_top",
+	"textures": {
+		"full":  "minecraft:block/red_sandstone",
+		"pathh": "minecraft:block/red_sandstone/red_sandstone_slab",
+		"pathv": "minecraft:block/red_sandstone/red_sandstone_slab_v",
+		"north": "minecraft:block/red_sandstone/red_sandstone_stairs_2",
+		"south": "minecraft:block/red_sandstone/red_sandstone_stairs_3",
+		"top":   "minecraft:block/red_sandstone_top",
+        "bottom": "minecraft:block/red_sandstone_bottom"
+	}
+}

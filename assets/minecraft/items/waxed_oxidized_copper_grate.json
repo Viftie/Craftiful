@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate"
+	}
+}

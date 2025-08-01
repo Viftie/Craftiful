@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/template_door_waxed",
+	"textures": {
+		"northt":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_top_n",
+		"eastt":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_top_e",
+		"southt":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_top_s",
+		"westt":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_top_w",
+		"upt":		"minecraft:item/waxed_copper/waxed_exposed_copper_door_top_u",
+		"northb":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_bottom_n",
+		"eastb":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_bottom_e",
+		"southb":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_bottom_s",
+		"westb":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_bottom_w",
+		"downb":	"minecraft:item/waxed_copper/waxed_exposed_copper_door_bottom_d"
+	}	
+}

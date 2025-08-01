@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_north_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_granite",
+		"south": "minecraft:block/granite/polished_granite_stairs_1",
+		"east":  "minecraft:block/granite/polished_granite_stairs_0",
+        "up":    "minecraft:block/granite/polished_granite_stairs_2"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_west_top",
+	"textures": {
+		"full":  "minecraft:block/prismarine_bricks",
+		"north": "minecraft:block/prismarine/prismarine_brick_stairs_3",
+        "east":  "minecraft:block/prismarine/prismarine_brick_stairs_2",
+        "down":  "minecraft:block/prismarine/prismarine_brick_stairs_2"
+	}
+}

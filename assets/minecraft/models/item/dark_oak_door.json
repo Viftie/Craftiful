@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/template_door",
+	"textures": {
+		"bottom": 	"minecraft:block/dark_oak_door_bottom",
+		"top": 	 	"minecraft:block/dark_oak_door_top",
+		"outb": 	"minecraft:block/dark_oak_door/dark_oak_door_out_bottom",
+		"outt": 	"minecraft:block/dark_oak_door/dark_oak_door_out_top"
+	}
+}

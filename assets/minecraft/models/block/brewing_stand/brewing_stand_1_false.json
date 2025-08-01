@@ -1,0 +1,89 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "block/brewing_stand_sides",
+		"particle": "block/brewing_stand",
+		"stand": "block/brewing_stand"
+	},
+	"elements": [
+		{
+			"name": "holder_n0",
+			"from": [4.05, 12, 4.8],
+			"to": [6.05, 15, 5.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.05, 9.75, 5.05]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "texture": "#missing"},
+				"east": {"uv": [4, 1, 5, 4], "texture": "#stand"},
+				"south": {"uv": [0, 5, 2, 8], "texture": "#2"},
+				"west": {"uv": [4, 1, 5, 4], "texture": "#stand"},
+				"up": {"uv": [12, 7, 13, 9], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [13, 0, 14, 2], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "holder_n1",
+			"from": [4.05, 12, 3.8],
+			"to": [6.05, 16, 4.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.05, 9.75, 5.05]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#2"},
+				"east": {"uv": [3, 0, 4, 4], "texture": "#stand"},
+				"south": {"uv": [0, 4, 2, 8], "texture": "#2"},
+				"west": {"uv": [3, 0, 4, 4], "texture": "#stand"},
+				"up": {"uv": [13, 7, 14, 9], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [12, 0, 13, 2], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "holder_n2",
+			"from": [4.05, 11, 2.8],
+			"to": [6.05, 13, 3.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.05, 9.75, 5.05]},
+			"faces": {
+				"north": {"uv": [0, 4, 2, 6], "texture": "#2"},
+				"east": {"uv": [2, 3, 3, 5], "texture": "#stand"},
+				"south": {"uv": [0, 4, 2, 6], "texture": "#2"},
+				"west": {"uv": [2, 3, 3, 5], "texture": "#stand"},
+				"up": {"uv": [13, 7, 14, 9], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [13, 3, 14, 5], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "tube_empty",
+			"from": [5.05, 6, 3.8],
+			"to": [5.05, 12, 4.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.05, 9.75, 5.05]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"east": {"uv": [12, 4, 13, 10], "texture": "#stand"},
+				"south": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"west": {"uv": [12, 4, 13, 10], "texture": "#stand"},
+				"up": {"uv": [0, 0, 2, 0], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 0], "rotation": 90, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "pillar_n",
+			"from": [4.05, 2, 5.8],
+			"to": [6.05, 14, 7.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.05, 9.75, 5.05]},
+			"faces": {
+				"north": {"uv": [3, 0, 5, 12], "texture": "#2"},
+				"east": {"uv": [7, 2, 5, 14], "texture": "#stand"},
+				"south": {"uv": [6, 4, 8, 16], "texture": "#2"},
+				"west": {"uv": [5, 2, 7, 14], "texture": "#stand"},
+				"up": {"uv": [10, 7, 12, 9], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [12, 0, 14, 2], "rotation": 90, "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "north",
+			"origin": [13.5, 5.5, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

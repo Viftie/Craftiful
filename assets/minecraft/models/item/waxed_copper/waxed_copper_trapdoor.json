@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/template_trapdoor_waxed",
+	"textures": {
+		"particle":	"minecraft:block/copper_block",
+		"north":"minecraft:item/waxed_copper/waxed_copper_trapdoor_n",
+		"east":"minecraft:item/waxed_copper/waxed_copper_trapdoor_e",
+		"south":"minecraft:item/waxed_copper/waxed_copper_trapdoor_s",
+		"west":"minecraft:item/waxed_copper/waxed_copper_trapdoor_w",
+		"up":"minecraft:item/waxed_copper/waxed_copper_trapdoor_u",
+		"down":"minecraft:item/waxed_copper/waxed_copper_trapdoor_d"
+	}
+}

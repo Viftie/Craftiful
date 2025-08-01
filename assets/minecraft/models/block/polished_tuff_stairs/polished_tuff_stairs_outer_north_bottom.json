@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/stairs/stairs_outer_north_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_tuff",
+        "slab":  "minecraft:block/tuff/polished_tuff_slab",
+		"north": "minecraft:block/tuff/polished_tuff_stairs_0",
+		"east":  "minecraft:block/tuff/polished_tuff_stairs_1",
+        "south": "minecraft:block/tuff/polished_tuff_stairs_0",
+        "west":  "minecraft:block/tuff/polished_tuff_stairs_1",
+        "up":    "minecraft:block/tuff/polished_tuff_stairs_0"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/template_door",
+	"textures": {
+		"bottom": 	"minecraft:block/bamboo_door_bottom",
+		"top": 	 	"minecraft:block/bamboo_door/bamboo_door_top",
+		"outb": 	"minecraft:block/bamboo_door/bamboo_door_out_bottom",
+		"outt": 	"minecraft:block/bamboo_door/bamboo_door_out_top"
+	}
+}

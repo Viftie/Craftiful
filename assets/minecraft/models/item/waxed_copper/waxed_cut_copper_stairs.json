@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:block/stairs_copper",
+	"textures": {
+		"particle": "minecraft:block/copper_block",
+        "downb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_d",
+        "upb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_ub",
+        "northb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_n",
+        "eastb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_e",
+        "southb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_s",
+        "westb": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_wb",
+        "upt": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_ut",
+        "northt": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_n",
+        "eastt": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_e",
+        "southt": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_s",
+        "westt": "minecraft:item/waxed_copper/waxed_cut_copper_stairs_wt"
+	}
+}

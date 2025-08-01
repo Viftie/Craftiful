@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_north_top",
+	"textures": {
+		"full":  "minecraft:block/polished_blackstone",
+		"south": "minecraft:block/blackstone/polished_blackstone_stairs_2",
+		"east":  "minecraft:block/blackstone/polished_blackstone_stairs_3",
+        "down":  "minecraft:block/blackstone/polished_blackstone_stairs_1"
+	}
+}

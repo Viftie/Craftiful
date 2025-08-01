@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/template_trapdoor",
+	"textures": {
+		"particle":	"minecraft:block/bamboo_trapdoor",
+		"side":		"minecraft:block/bamboo_trapdoor/bamboo_trapdoor_out",
+		"face":		"minecraft:block/bamboo_trapdoor"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/stairs/pillared_stairs_outer_west_bottom",
+	"textures": {
+		"full":  "minecraft:block/sandstone",
+        "slab":  "minecraft:block/sandstone/sandstone_slab",
+		"north": "minecraft:block/sandstone/sandstone_stairs_1",
+		"east":  "minecraft:block/sandstone/sandstone_stairs_0",
+        "south": "minecraft:block/sandstone/sandstone_stairs_1",
+        "west":  "minecraft:block/sandstone/sandstone_stairs_0",
+		"top":   "minecraft:block/sandstone_top",
+        "bottom": "minecraft:block/sandstone_bottom"
+	}
+}

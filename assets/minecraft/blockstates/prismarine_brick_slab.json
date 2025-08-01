@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/prismarine_brick_slab/prismarine_brick_slab_bottom"
+    },
+    "type=double": {
+      "model": "minecraft:block/prismarine_bricks"
+    },
+    "type=top": {
+      "model": "minecraft:block/prismarine_brick_slab/prismarine_brick_slab_top"
+    }
+  }
+}

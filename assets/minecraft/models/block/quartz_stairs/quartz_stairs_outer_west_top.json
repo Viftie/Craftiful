@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/stairs/stairs_outer_west_top",
+	"textures": {
+		"full":  "minecraft:block/quartz_block_side",
+        "slab":  "minecraft:block/quartz/quartz_slab",
+		"north": "minecraft:block/quartz/quartz_stairs_2",
+		"east":  "minecraft:block/quartz/quartz_stairs_3",
+        "south": "minecraft:block/quartz/quartz_stairs_2",
+        "west":  "minecraft:block/quartz/quartz_stairs_3",
+        "down":  "minecraft:block/quartz/quartz_stairs_0"
+	}
+}

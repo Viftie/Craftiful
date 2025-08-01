@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/pale_oak_trapdoor",
+		"1": "block/pale_oak_trapdoor/pale_oak_trapdoor_out",
+		"particle": "block/pale_oak_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 13, 0]},
+			"faces": {
+				"north": {"uv": [0, 12, 16, 15], "texture": "#1"},
+				"east": {"uv": [16, 8, 0, 11], "texture": "#1"},
+				"south": {"uv": [16, 4, 0, 7], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

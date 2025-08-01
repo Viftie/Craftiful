@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_south_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_deepslate",
+		"north": "minecraft:block/deepslate/polished_deepslate_stairs_1",
+		"west":  "minecraft:block/deepslate/polished_deepslate_stairs_0",
+        "up":    "minecraft:block/deepslate/polished_deepslate_stairs_0"
+	}
+}

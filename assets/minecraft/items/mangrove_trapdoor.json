@@ -1,0 +1,7 @@
+{
+	"parent": "block/block",
+	"model": {
+		"type": "minecraft:model",
+        "model": "minecraft:item/mangrove_trapdoor"
+	}
+}

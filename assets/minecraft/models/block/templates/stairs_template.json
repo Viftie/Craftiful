@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"full": "block/xyz",
+		"hori": "block/xyz_slab",
+		"vert": "block/xyz_slab_v",
+		"se":   "block/xyz_stairs_0",
+		"sw":   "block/xyz_stairs_1",
+		"nw": 	"block/xyz_stairs_2",
+		"ne": 	"block/xyz_stairs_3"
+	}
+}

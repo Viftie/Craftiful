@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/template_door",
+	"textures": {
+		"bottom": 	"minecraft:block/iron_door_bottom",
+		"top": 	 	"minecraft:block/iron_door_top",
+		"outb": 	"minecraft:block/iron_door/iron_door_out_bottom",
+		"outt": 	"minecraft:block/iron_door/iron_door_out_top"
+	}
+}

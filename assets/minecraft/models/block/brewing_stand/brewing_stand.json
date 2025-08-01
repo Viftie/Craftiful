@@ -1,0 +1,73 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "block/brewing_stand_sides",
+		"particle": "block/brewing_stand",
+		"stand": "block/brewing_stand",
+		"base": "block/brewing_stand_base"
+	},
+	"elements": [
+		{
+			"name": "center",
+			"from": [7, 0, 7],
+			"to": [9, 14, 9],
+			"faces": {
+				"north": {"uv": [7, 2, 9, 16], "texture": "#stand"},
+				"east": {"uv": [7, 2, 9, 16], "texture": "#stand"},
+				"south": {"uv": [7, 2, 9, 16], "texture": "#stand"},
+				"west": {"uv": [7, 2, 9, 16], "texture": "#stand"},
+				"up": {"uv": [9, 0, 11, 2], "texture": "#2"},
+				"down": {"uv": [9, 3, 11, 5], "texture": "#2"}
+			}
+		},
+		{
+			"name": "base_s",
+			"from": [1, 0, 9],
+			"to": [7, 2, 15],
+			"faces": {
+				"north": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"east": {"uv": [9, 14, 15, 16], "texture": "#base"},
+				"south": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"west": {"uv": [9, 14, 15, 16], "texture": "#base"},
+				"up": {"uv": [1, 9, 7, 15], "texture": "#base"},
+				"down": {"uv": [1, 9, 7, 15], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "base_n",
+			"from": [1, 0, 1],
+			"to": [7, 2, 7],
+			"faces": {
+				"north": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"east": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"south": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"west": {"uv": [1, 14, 7, 16], "texture": "#base"},
+				"up": {"uv": [1, 1, 7, 7], "texture": "#base"},
+				"down": {"uv": [1, 1, 7, 7], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "base_e",
+			"from": [9, 0, 5],
+			"to": [15, 2, 11],
+			"faces": {
+				"north": {"uv": [9, 14, 15, 16], "texture": "#base"},
+				"east": {"uv": [5, 14, 11, 16], "texture": "#base"},
+				"south": {"uv": [9, 14, 15, 16], "texture": "#base"},
+				"west": {"uv": [5, 14, 11, 16], "texture": "#base"},
+				"up": {"uv": [9, 5, 15, 11], "texture": "#base"},
+				"down": {"uv": [9, 5, 15, 11], "texture": "#base", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "base",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1, 2, 3]
+		}
+	]
+}

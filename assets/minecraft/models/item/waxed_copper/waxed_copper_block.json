@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"particle": "minecraft:block/copper_block",
+        "down": "minecraft:item/waxed_copper/waxed_copper_block_d",
+        "up": "minecraft:item/waxed_copper/waxed_copper_block_u",
+        "north": "minecraft:item/waxed_copper/waxed_copper_block_n",
+        "east": "minecraft:item/waxed_copper/waxed_copper_block_e",
+        "south": "minecraft:item/waxed_copper/waxed_copper_block_s",
+        "west": "minecraft:item/waxed_copper/waxed_copper_block_w"
+	}
+}

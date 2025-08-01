@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"particle": "minecraft:block/copper_block",
+        "down": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_d",
+        "up": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_u",
+        "north": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_n",
+        "east": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_e",
+        "south": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_s",
+        "west": "minecraft:item/waxed_copper/waxed_oxidized_copper_grate_w"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/slab_copper",
+	"textures": {
+		"particle": "minecraft:block/copper_block",
+        "down": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_d",
+        "up": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_u",
+        "north": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_n",
+        "east": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_e",
+        "south": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_s",
+        "west": "minecraft:item/waxed_copper/waxed_exposed_cut_copper_slab_w"
+	}
+}

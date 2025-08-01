@@ -1,0 +1,98 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_none"
+			},
+			"when": {
+					"up": "true"
+
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_n"
+			},
+			"when": {
+					"north": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_e"
+			},
+			"when": {
+					"east": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_s"
+			},
+			"when": {
+					"south": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_w"
+			},
+			"when": {
+					"west": "low"
+			}
+		}
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_ne"
+			},
+			"when": {
+					"east": "low",
+					"north": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_ns"
+			},
+			"when": {
+					"north": "low",
+					"south": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_nw"
+			},
+			"when": {
+					"north": "low",
+					"west": "low"
+			},
+					{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_es"
+			},
+			"when": {
+					"east": "low",
+					"south": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_ew"
+			},
+			"when": {
+					"north": "low",
+					"west": "low"
+			}
+		},
+		{
+			"apply": {
+				"model": "minecraft:block/polished_blackstone_wall/polished_blackstone_wall_sw"
+			},
+			"when": {
+					"south": "low",
+					"west": "low"
+			}
+		}
+	]
+}
