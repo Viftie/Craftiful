@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/copper_lantern"
+        },
+        "when": [
+          "fixed"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lantern/copper_lantern"
+        },
+        "when": [
+            "gui",
+            "ground",
+            "firstperson_righthand",
+            "thirdperson_righthand",
+            "firstperson_lefthand",
+            "thirdperson_lefthand"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/copper_lantern"
+    },
+    "property": "minecraft:display_context"
+  }
+}
