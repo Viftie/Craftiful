@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bars/template_bars_post",
+  "textures": {
+    "particle": "minecraft:block/iron_bars",
+    "bars":     "minecraft:block/iron_bars"
+  }
+}

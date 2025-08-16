@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bars/template_bars_south",
+  "textures": {
+    "particle": "minecraft:block/exposed_copper_bars",
+    "bars":     "minecraft:block/exposed_copper_bars"
+  }
+}

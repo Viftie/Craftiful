@@ -1,0 +1,98 @@
+Craftiful beta version 0.2.0
+for Minecraft 1.21.8+
+Resource Pack Format 65.0
+
+intended for Minecraft Java Edition, version 1.21.5+
+some features might not work in older versions of Minecraft
+
+
+# Additions
+
+3D block models
+- Leaf Litter
+- Frogspawn
+- Sculk Vein
+- Resin Clump
+- all types of Rails
+- all types of non-waxed Lanterns
+- all types of non-waxed Copper Chains
+- all types of non-waxed Copper Bars
+
+3D item models
+- Armor Stand
+- Iron Bars
+- Lever
+- Tripwire Hook
+- all types of Rails
+- all types of non-waxed Copper Lanterns
+- all types of non-waxed Coppr Bars
+- Mace when held in hand
+
+Block adjustments
+- changed sides of regular Piston
+- Piston and Sticky Piston model adjusted to look like their Bedrock counterparts
+
+Item adjustments
+- Leaf Litter only shows a quarter when dropped
+
+Redstone identification
+- Hopper direction indicator
+- Observer direction and activation indicator
+- Dispenser direction indicator
+- Dropper direction indicator
+- Sticky Piston indication to see its stickyness from all sides
+
+GUI retextures
+- Advancements
+- Blast Furnace
+- Dispenser and Dropper
+- Hopper (WIP)
+- Recipe Book
+- Smoker (WIP)
+- Villager Trading (WIP)
+- Grindstone
+- adjusted shading for Books' page forward buttons
+
+Item changes
+- changed Fences, Fence Gates and Shelves to face left in the inventory
+
+
+# Changes
+
+3D block models
+- changed Iron Bars texture
+- changed depth of Vines to equal original depth (Vines still WIP)
+- changed depth of Ladders to equal original depth
+- changed 3D item models display their original sprites in Item Frames
+
+GUI retextures
+- added Anvil sprites
+- added Furnace sprites
+- added Recipe Book shadow for Workbench and Furnace
+- changed Furnace coloring
+- changes to personal inventory in Crafting Table and Chest GUIs
+
+Item optimizations
+- shortened interval for Waxed Copper animation
+
+# Fixes
+
+3D blocks
+- adjusted Chain model to prevent lighting issues
+
+3D items
+- adjusted handheld positioning for Campfire and Soul Campfire
+- adjusted item frame positioning for Flower Pot 
+
+Item optimizations
+- corrected errors in Waxed Copper block items
+
+
+# Other
+
+Faulty changelog documentation from 0.1.0
+- Composter has not been changed
+- Crafting Table GUI received retexture
+- Blast Furnace GUI received retexture (WIP)
+- Vines are still WIP
+- Lantern and Soul Lantern received 3D changed

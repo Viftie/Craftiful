@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/torch/template_torch",
+  "textures": {
+    "particle": "minecraft:block/torch",
+    "torch":  "minecraft:block/torch"
+  }
+}

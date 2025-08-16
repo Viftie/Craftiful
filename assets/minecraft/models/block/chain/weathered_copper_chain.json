@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/chain/template_chain",
+  "textures": {
+    "particle": "minecraft:block/weathered_copper_chain",
+    "chain": "minecraft:block/weathered_copper_chain"
+  }
+}

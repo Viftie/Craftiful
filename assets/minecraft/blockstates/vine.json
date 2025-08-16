@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/vine/vine_north"
+        "model": "minecraft:block/vine"
       },
       "when": {
         "north": "true"
@@ -22,8 +22,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/vine/vine_east",
-        "uvlock": true
+        "model": "minecraft:block/vine",
+        "y": 90
       },
       "when": {
         "east": "true"
@@ -32,7 +32,6 @@
     {
       "apply": {
         "model": "minecraft:block/vine",
-        "uvlock": true,
         "y": 90
       },
       "when": {
@@ -45,8 +44,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/vine/vine_south",
-        "uvlock": true
+        "model": "minecraft:block/vine",
+        "y": 180
       },
       "when": {
         "south": "true"
@@ -55,7 +54,6 @@
     {
       "apply": {
         "model": "minecraft:block/vine",
-        "uvlock": true,
         "y": 180
       },
       "when": {
@@ -68,8 +66,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/vine/vine_west",
-        "uvlock": true
+        "model": "minecraft:block/vine",
+        "y": 270
       },
       "when": {
         "west": "true"
@@ -78,7 +76,6 @@
     {
       "apply": {
         "model": "minecraft:block/vine",
-        "uvlock": true,
         "y": 270
       },
       "when": {
@@ -92,7 +89,6 @@
     {
       "apply": {
         "model": "minecraft:block/vine",
-        "uvlock": true,
         "x": 270
       },
       "when": {
@@ -102,7 +98,6 @@
     {
       "apply": {
         "model": "minecraft:block/vine",
-        "uvlock": true,
         "x": 270
       },
       "when": {
