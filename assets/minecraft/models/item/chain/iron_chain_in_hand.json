@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/chain/template_chain",
-  "textures": {
-    "particle": "minecraft:block/chain",
-    "chain": "minecraft:block/chain"
-  }
-}

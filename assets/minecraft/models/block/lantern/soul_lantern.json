@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/lantern/template_lantern",
-  "textures": {
-    "particle": "minecraft:block/soul_lantern",
-    "lantern": "minecraft:block/soul_lantern"
-  }
-}
