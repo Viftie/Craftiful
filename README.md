@@ -96,8 +96,6 @@ and much, much more!
 
 I hope you have fun with the pack!
 
----
-
 # I found an issue in your pack!
 
 That's a bummer, but we will fix it to ensure a high-quality experience. You can submit any bugs, criticism or other feedback [here](https://github.com/Viftie/Craftiful/issues) and we will get to it as soon as possible.
