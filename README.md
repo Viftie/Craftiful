@@ -1,4 +1,4 @@
-**_CRAFTIFUL_ IS STILL IN ITS BETA.**
+**_CRAFTIFUL_ IS STILL IN BETA.**
 Many features are still missing and some might look a bit wonky as they are still under construction - especially the GUI. But they will be fixed soon enough.
 
 Waxed indicators for Snapshot features won't be added until 1.21.9 pre-release.
@@ -11,10 +11,6 @@ _Craftiful_ adds a bit of beauty and a hint of utility into your Minecraft world
 
 This pack should also work with modern versions older than 1.21.5, though some features might not be compatible.
 
----
-
-
-
 # What is Craftiful?
 Craftiful is born from one simple idea: How can you get more out of Minecraft visually without changing the vibe of its looks? Craftiful aims to amplify Minecraft's immersion and improve on its visuals without taking too much liberty in changing the vibe of the game. Additionally, there are quite a few utility tweaks that we feel should be in the game for accessibility or simplicity reasons.
 But behold, this pack is far from finished! Make sure to show up every once in a while to get new features.
@@ -26,7 +22,7 @@ The current build of _Craftiful_ has distinguishable Potions, animation to disti
 <summary>Features</summary>
 
 ## 3D Block Models
-![3D Block Models](https://cdn.modrinth.com/data/cached_images/59504b9776ef733812177aee8a0b55fbc21bea62.png)
+![3D Block Models](https://cdn.modrinth.com/data/cached_images/43bcd22349f302d2efbdeb87b18c5f5b6b6d5fb7.png)
 
 Some models in the game are pretty flat, so we gave them more depth. These blocks include:
 
@@ -44,7 +40,7 @@ And don't worry, most of these will still display as sprites in Item Frames!
 Fences, Fence Gates and Shelves have also been rotated in the inventory to now face the direction of incoming light.
 
 ## Tiled Slabs and Stairs
-![Tiled slabs and stairs](https://cdn.modrinth.com/data/cached_images/218797a7ff6db78167e3728140f2844d20190c1f.png)
+![Tiled Slabs and Stairs](https://cdn.modrinth.com/data/cached_images/2ca9cb4a02652bfed33221d49cc2dbdea851afe0.png)
 
 Slabs, Stairs and Walls of polished blocks love to simply cut off at edges instead of continuing their pattern to the end. This is now "fixed" for the following block types (Walls are still WIP):
 
@@ -89,7 +85,6 @@ This pack isn't finished yet. Not even close! The future holds many new ways to 
 
 <details>
 <summary>Features awaiting their completion</summary>
-
 - a logo that is more than a simple Blockbench preset
 - distiguishable Enchanted Books
 - a GUI overhaul
@@ -99,11 +94,31 @@ This pack isn't finished yet. Not even close! The future holds many new ways to 
 and much, much more!
 </details>
 
+I hope you have fun with the pack!
+
+---
+
+# I found an issue in your pack!
+
+That's a bummer, but we will fix it to ensure a high-quality experience. You can submit any bugs, criticism or other feedback [here](https://github.com/Viftie/Craftiful/issues) and we will get to it as soon as possible.
+
 <details>
 <summary>Issues we are aware of</summary>
-
 - Redstone Torch item glow effect
 - overlapping Vines, Glow Lichen and Sculk
 </details>
 
-I hope you have fun with the pack!
+---
+
+<font size=2>This is an official release of the resource pack. If you distribute the pack anywhere else, please:
+- remove this section from the page description
+- mark the distribution as unofficial
+- credit me (Viftie) as the author
+- link at least one of the official release pages (preferredly Modrinth)
+- notify me via the pack's [GitHub issue section](https://github.com/Viftie/Craftiful/issues)
+
+Other official releases include:
+- [GitHub](https://github.com/Viftie/Craftiful)
+- [Planet Minecraft](https://www.planetminecraft.com/texture-pack/craftiful/)
+- [Curseforge](https://legacy.curseforge.com/minecraft/texture-packs/craftiful)
+- [Modbay](https://modbay.org/textures/5177-craftiful-v020-for-minecraft-1218-snapshot-25w33a.html)</font>
