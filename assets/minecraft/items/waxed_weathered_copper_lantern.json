@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/waxed_copper/waxed_weathered_copper_lantern_in_hand"
+        },
+        "when": [
+          "fixed",
+          "on_shelf"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/waxed_copper/waxed_weathered_copper_lantern"
+        },
+        "when": [
+            "gui",
+            "ground",
+            "firstperson_righthand",
+            "thirdperson_righthand",
+            "firstperson_lefthand",
+            "thirdperson_lefthand"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/weathered_copper_lantern"
+    },
+    "property": "minecraft:display_context"
+  }
+}

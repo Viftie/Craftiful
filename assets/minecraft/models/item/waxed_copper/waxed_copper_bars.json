@@ -1,0 +1,12 @@
+{
+    "parent": "item/waxed_copper/template_waxed_copper_bars",
+    "textures": {
+	  	"particle": "block/copper_bars",
+	  	"west":     "item/waxed_copper/waxed_copper_bars_west",
+	  	"down":     "item/waxed_copper/waxed_copper_bars_down",
+	  	"east":     "item/waxed_copper/waxed_copper_bars_east",
+	  	"north":    "item/waxed_copper/waxed_copper_bars_north",
+	  	"south":    "item/waxed_copper/waxed_copper_bars_south",
+	  	"up":       "item/waxed_copper/waxed_copper_bars_up"
+	}
+}

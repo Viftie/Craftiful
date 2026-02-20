@@ -8,7 +8,8 @@
           "model": "minecraft:item/iron_chain"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {
@@ -25,6 +26,11 @@
             "thirdperson_lefthand"
         ]
       }
-    ]
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "miencraft:item/iron_chain"
+    },
+    "property": "minecraft:display_context"
   }
 }

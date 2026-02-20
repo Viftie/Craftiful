@@ -1,6 +1,7 @@
 {
   "model": {
     "type": "minecraft:select",
+    "property": "minecraft:display_context",
     "cases": [
       {
         "model": {
@@ -8,7 +9,8 @@
           "model": "minecraft:item/torch"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {
@@ -29,7 +31,6 @@
     "fallback": {
       "type": "minecraft:model",
       "model": "miencraft:item/mace"
-    },
-    "property": "minecraft:display_context"
+    }
   }
 }

@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/heavy_core",
+		"1": "block/mace_handle",
 		"particle": "block/heavy_core",
 		"all": "block/heavy_core"
 	},
@@ -29,9 +29,7 @@
 				"north": {"uv": [2, 0, 4, 8], "texture": "#1"},
 				"east": {"uv": [0, 0, 2, 8], "texture": "#1"},
 				"south": {"uv": [6, 0, 8, 8], "texture": "#1"},
-				"west": {"uv": [4, 0, 6, 8], "texture": "#1"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+				"west": {"uv": [4, 0, 6, 8], "texture": "#1"}
 			}
 		},
 		{
@@ -43,8 +41,7 @@
 				"east": {"uv": [3, 3, 5, 5], "texture": "#all"},
 				"south": {"uv": [3, 3, 5, 5], "texture": "#all"},
 				"west": {"uv": [3, 3, 5, 5], "texture": "#all"},
-				"up": {"uv": [3, 3, 5, 5], "texture": "#all"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+				"up": {"uv": [3, 3, 5, 5], "texture": "#all"}
 			}
 		},
 		{
@@ -69,7 +66,6 @@
 				"east": {"uv": [3, 4, 5, 5], "texture": "#all"},
 				"south": {"uv": [3, 4, 5, 5], "texture": "#all"},
 				"west": {"uv": [3, 4, 5, 5], "texture": "#all"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
 				"down": {"uv": [3, 3, 5, 5], "texture": "#all"}
 			}
 		}

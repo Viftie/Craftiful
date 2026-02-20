@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/chain/template_chain",
+  "parent": "minecraft:item/chain/template_chain_in_hand",
   "textures": {
     "particle": "minecraft:block/oxidized_copper_chain",
     "chain": "minecraft:block/oxidized_copper_chain"

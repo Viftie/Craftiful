@@ -1,6 +1,9 @@
 # files folder
 assets/minecraft/files
 
+# changelogs
+changelog archive
+
 # optifine
 assets/minecraft/optifine
 
@@ -10,10 +13,6 @@ assets/minecraft/textures/gui/footer_separator.png
 assets/minecraft/textures/gui/header_separator.png
 assets/minecraft/textures/gui/inworld_footer_separator.png
 assets/minecraft/textures/gui/inworld_header_separator.png
-assets/minecraft/textures/gui/inworld_menu_background.png
-assets/minecraft/textures/gui/inworld_menu_list_background.png
-assets/minecraft/textures/gui/menu_background.png
-assets/minecraft/textures/gui/menu_list_background.png
 assets/minecraft/textures/gui/tab_header_background.png
 
 # GUI containers
@@ -21,53 +20,24 @@ assets/minecraft/textures/gui/container/smoker.png
 assets/minecraft/textures/gui/container/brewing_stand.png
 assets/minecraft/textures/gui/container/blast_furnace.png
 assets/minecraft/textures/gui/container/cartography_table.png
-assets/minecraft/textures/gui/container/crafter.png
-assets/minecraft/textures/gui/container/horse.png
 assets/minecraft/textures/gui/container/loom.png
 assets/minecraft/textures/gui/container/shulker_box.png
 assets/minecraft/textures/gui/container/smithing.png
 assets/minecraft/textures/gui/container/stonecutter.png
 assets/minecraft/textures/gui/container/hopper.png
 
-# GUI sprites
-assets/minecraft/textures/gui/sprites/boss_bar
-assets/minecraft/textures/gui/sprites/gamemode_switcher
-assets/minecraft/textures/gui/sprites/hud
-assets/minecraft/textures/gui/sprites/icon
-assets/minecraft/textures/gui/sprites/notification
-assets/minecraft/textures/gui/sprites/pending_invite
-assets/minecraft/textures/gui/sprites/player_list
-assets/minecraft/textures/gui/sprites/popup
-assets/minecraft/textures/gui/sprites/realm_status
-assets/minecraft/textures/gui/sprites/server_list
-assets/minecraft/textures/gui/sprites/social_interactions
-assets/minecraft/textures/gui/sprites/spectator
-assets/minecraft/textures/gui/sprites/statistics
-assets/minecraft/textures/gui/sprites/toast
-assets/minecraft/textures/gui/sprites/tooltip
-assets/minecraft/textures/gui/sprites/transferable_list
-assets/minecraft/textures/gui/sprites/world_list
-
 # GUI container sprites
 assets/minecraft/textures/gui/sprites/container/beacon
 assets/minecraft/textures/gui/sprites/container/brewing_stand
 assets/minecraft/textures/gui/sprites/container/bundle
 assets/minecraft/textures/gui/sprites/container/cartography_table
-assets/minecraft/textures/gui/sprites/container/crafter
 assets/minecraft/textures/gui/sprites/container/enchanting_table
-assets/minecraft/textures/gui/sprites/container/grindstone
-assets/minecraft/textures/gui/sprites/container/horse
-assets/minecraft/textures/gui/sprites/container/inventory
 assets/minecraft/textures/gui/sprites/container/loom
-assets/minecraft/textures/gui/sprites/container/slot
 assets/minecraft/textures/gui/sprites/container/smithing
 assets/minecraft/textures/gui/sprites/container/smoker
 assets/minecraft/textures/gui/sprites/container/stonecutter
-assets/minecraft/textures/gui/sprites/container/villager
-assets/minecraft/textures/gui/sprites/container/slot.png
-assets/minecraft/textures/gui/sprites/container/slot_highlight_back.png.mcmeta
-assets/minecraft/textures/gui/sprites/container/slot_highlight_front.png
-assets/minecraft/textures/gui/sprites/container/slot_highlight_front.png.mcmeta
+assets/minecraft/textures/gui/sprites/container/villager/trade_arrow.png
+assets/minecraft/textures/gui/sprites/container/villager/trade_arrow_out_of_stock.png
 
 # GUI widget
 assets/minecraft/textures/gui/sprites/widget/button.png

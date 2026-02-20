@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 65.0,
+    "pack_format": 75,
+    "min_format": 69.0,
+    "max_format": 75,
     "description": "Stay Min(e)dful!"
   }
 }

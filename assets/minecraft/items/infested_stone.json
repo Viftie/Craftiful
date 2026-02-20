@@ -1,0 +1,7 @@
+{
+	"parent": "block/block",
+	"model": {
+		"type": "minecraft:model",
+        "model": "minecraft:item/infested_stone/infested_stone"
+	}
+}

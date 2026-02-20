@@ -8,7 +8,8 @@
           "model": "minecraft:item/iron_bars"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {

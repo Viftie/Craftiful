@@ -8,7 +8,8 @@
           "model": "minecraft:item/detector_rail"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {

@@ -1,0 +1,13 @@
+{
+    "parent": "item/waxed_copper/template_waxed_copper_lantern",
+    "textures": {
+		"particle": "item/exposed_copper_lantern",
+		"west":     "item/waxed_copper/waxed_exposed_copper_lantern_west",
+		"down":     "item/waxed_copper/waxed_exposed_copper_lantern_down",
+		"east":     "item/waxed_copper/waxed_exposed_copper_lantern_east",
+		"north":    "item/waxed_copper/waxed_exposed_copper_lantern_north",
+		"south":    "item/waxed_copper/waxed_exposed_copper_lantern_south",
+		"up":       "item/waxed_copper/waxed_exposed_copper_lantern_up",
+        "chain":    "item/waxed_copper/waxed_exposed_copper_lantern_chain"
+	}
+}

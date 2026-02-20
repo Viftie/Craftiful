@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/green_candle"
+        },
+        "when": [
+          "fixed"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/candle/green_candle_in_hand"
+        },
+        "when": [
+            "gui",
+            "ground",
+            "firstperson_righthand",
+            "thirdperson_righthand",
+            "firstperson_lefthand",
+            "thirdperson_lefthand"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/green_candle"
+    },
+    "property": "minecraft:display_context"
+  }
+}

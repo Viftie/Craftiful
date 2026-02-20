@@ -8,7 +8,8 @@
           "model": "minecraft:item/brewing_stand"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {

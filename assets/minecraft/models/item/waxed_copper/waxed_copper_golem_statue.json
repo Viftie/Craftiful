@@ -1,0 +1,20 @@
+{
+    "parent": "item/waxed_copper/template_waxed_copper_golem_statue",
+    "textures": {
+		"particle": "block/copper_block",
+		"north":    "item/waxed_copper/waxed_copper_golem_statue_north",
+		"east":     "item/waxed_copper/waxed_copper_golem_statue_east",
+		"south":    "item/waxed_copper/waxed_copper_golem_statue_south",
+		"west":     "item/waxed_copper/waxed_copper_golem_statue_west",
+		"up":       "item/waxed_copper/waxed_copper_golem_statue_up",
+		"down":     "item/waxed_copper/waxed_copper_golem_statue_down",
+		"feet":     "item/waxed_copper/waxed_copper_golem_statue_feet",
+		"left":     "item/waxed_copper/waxed_copper_golem_statue_left",
+		"right":    "item/waxed_copper/waxed_copper_golem_statue_right",
+		"rod":      "item/waxed_copper/waxed_copper_golem_statue_rod",
+		"rod_sides":"item/waxed_copper/waxed_copper_golem_statue_rod_sides",
+		"rod_up":   "item/waxed_copper/waxed_copper_golem_statue_rod_up",
+		"rod_down": "item/waxed_copper/waxed_copper_golem_statue_rod_down",
+		"nose":     "item/waxed_copper/waxed_copper_golem_statue_nose"
+	}
+}

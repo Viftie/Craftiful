@@ -1,0 +1,73 @@
+Craftiful beta version 0.3.0
+for Minecraft Snapshot 1.21.11
+Resource Pack Format 65.2
+
+intended for Minecraft Java Edition, version 1.21.11+
+some features don't not work in older versions of Minecraft
+
+
+# Additions
+
+3D block models
+- Big Dripleaf
+
+3D item models
+- Candles
+- Sea Pickle
+
+Block adjustments
+- Dripleaf stems no longer show through when tilting
+
+Item adjustments
+
+Variated textures
+- Resin Clump
+- Bookshelf
+
+GUI retextures
+- Crafter
+- Horse
+- Gamemode Switcher
+- Effect Background
+- Hotbar
+- Ping Unkown, Checkmark, Info, Unseen Notification, Link, Link Highlighted, and Language icons
+- Pending Invite icons
+- Remove Player icon
+- Popup Background
+- Unreachable and Incompatible Server List icons
+- navigation arrows
+- Social Interactions Background
+- Close spectator icon
+- Statistics Header
+- Container Slots
+
+Block optimizations
+- visual Honey stages for Beehives and Bee Nests
+
+Item optimizations
+- shining animations for Waxed Copper Bars, Chests, Lanterns, Chains, Golem Statues, and Lightning Rods
+- identification animation for infested stone block items
+
+
+# Changes
+
+3D item models
+- adjusted UV mapping of Bars
+
+
+# Fixes
+
+Item optimizations
+- adjusted item models for 1.21.11
+- fixed/added Shelf functionality for previously changed models in 1.21.11
+- fixed faulty Waxed Copper animation
+- Oxidized Copper Door now shows correct item
+
+GUI retextures
+- fixed Creative inventory size
+- adjusted sprites for Anvil and Grindstone
+
+Stairs
+- fixed faulty stairs texturing
+
+Item Models

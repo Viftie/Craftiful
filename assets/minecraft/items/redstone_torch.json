@@ -8,7 +8,8 @@
           "model": "minecraft:item/redstone_torch"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {

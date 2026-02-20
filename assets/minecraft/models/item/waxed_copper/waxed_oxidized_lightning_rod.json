@@ -1,0 +1,11 @@
+{
+    "parent": "item/waxed_copper/template_waxed_lightning_rod",
+    "textures": {
+		"west":     "item/waxed_copper/waxed_oxidized_lightning_rod_west",
+		"down":     "item/waxed_copper/waxed_oxidized_lightning_rod_down",
+		"east":     "item/waxed_copper/waxed_oxidized_lightning_rod_east",
+		"north":    "item/waxed_copper/waxed_oxidized_lightning_rod_north",
+		"south":    "item/waxed_copper/waxed_oxidized_lightning_rod_south",
+		"up":       "item/waxed_copper/waxed_oxidized_lightning_rod_up"
+	}
+}

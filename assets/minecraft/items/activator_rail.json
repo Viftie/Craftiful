@@ -8,7 +8,8 @@
           "model": "minecraft:item/activator_rail"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {

@@ -1,17 +1,31 @@
 {
   "multipart": [
-    {
-      "apply": {
-        "model": "minecraft:block/resin_clump"
-      },
+    { 
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0" },
+        { "model": "minecraft:block/resin_clump/resin_clump_1" },
+        { "model": "minecraft:block/resin_clump/resin_clump_2" },
+        { "model": "minecraft:block/resin_clump/resin_clump_3" },
+        { "model": "minecraft:block/resin_clump/resin_clump_4" },
+        { "model": "minecraft:block/resin_clump/resin_clump_5" },
+        { "model": "minecraft:block/resin_clump/resin_clump_6" },
+        { "model": "minecraft:block/resin_clump/resin_clump_7" }
+      ],
       "when": {
         "north": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump"
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0" },
+        { "model": "minecraft:block/resin_clump/resin_clump_1" },
+        { "model": "minecraft:block/resin_clump/resin_clump_2" },
+        { "model": "minecraft:block/resin_clump/resin_clump_3" },
+        { "model": "minecraft:block/resin_clump/resin_clump_4" },
+        { "model": "minecraft:block/resin_clump/resin_clump_5" },
+        { "model": "minecraft:block/resin_clump/resin_clump_6" },
+        { "model": "minecraft:block/resin_clump/resin_clump_7" }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -22,19 +36,31 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 90
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 90 }
+      ],
       "when": {
         "east": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 90
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 90 }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -45,19 +71,31 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 180
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 180 }
+      ],
       "when": {
         "south": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 180
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 180 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 180 }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -68,19 +106,31 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 270
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 270 }
+      ],
       "when": {
         "west": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "y": 270
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "y": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "y": 270 }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -91,19 +141,31 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "x": 270
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "x": 270 }
+      ],
       "when": {
         "up": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "x": 270
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "x": 270 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "x": 270 }
+      ],
       "when": {
         "down": "false",
         "east": "false",
@@ -114,19 +176,31 @@
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "x": 90
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "x": 90 }
+      ],
       "when": {
         "down": "true"
       }
     },
     {
-      "apply": {
-        "model": "minecraft:block/resin_clump",
-        "x": 90
-      },
+      "apply": [
+        { "model": "minecraft:block/resin_clump/resin_clump_0", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_1", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_2", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_3", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_4", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_5", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_6", "x": 90 },
+        { "model": "minecraft:block/resin_clump/resin_clump_7", "x": 90 }
+      ],
       "when": {
         "down": "false",
         "east": "false",

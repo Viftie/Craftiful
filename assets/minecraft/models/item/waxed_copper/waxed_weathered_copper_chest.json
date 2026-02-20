@@ -1,0 +1,13 @@
+{
+    "parent": "item/waxed_copper/template_waxed_copper_chest",
+    "textures": {
+		"particle": "block/weathered_copper_block",
+		"west":     "item/waxed_copper/waxed_weathered_copper_chest_west",
+		"down":     "item/waxed_copper/waxed_weathered_copper_chest_down",
+		"east":     "item/waxed_copper/waxed_weathered_copper_chest_east",
+		"north":    "item/waxed_copper/waxed_weathered_copper_chest_north",
+		"south":    "item/waxed_copper/waxed_weathered_copper_chest_south",
+		"up":       "item/waxed_copper/waxed_weathered_copper_chest_up",
+		"lock":     "item/waxed_copper/copper_chest_lock"
+	}
+}

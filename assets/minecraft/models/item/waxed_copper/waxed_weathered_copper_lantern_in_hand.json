@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/waxed_copper/waxed_weathered_copper_lantern_in_hand"
+  }
+}

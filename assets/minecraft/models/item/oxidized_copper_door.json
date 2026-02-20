@@ -1,9 +1,9 @@
 {
 	"parent": "minecraft:item/template_door",
 	"textures": {
-		"bottom": 	"minecraft:block/exposed_copper_door_bottom",
-		"top": 	 	"minecraft:block/exposed_copper_door_top",
-		"outb": 	"minecraft:block/exposed_copper_door/exposed_copper_door_out_bottom",
-		"outt": 	"minecraft:block/exposed_copper_door/exposed_copper_door_out_top"
+		"bottom": 	"minecraft:block/oxidized_copper_door_bottom",
+		"top": 	 	"minecraft:block/oxidized_copper_door_top",
+		"outb": 	"minecraft:block/oxidized_copper_door/oxidized_copper_door_out_bottom",
+		"outt": 	"minecraft:block/oxidized_copper_door/oxidized_copper_door_out_top"
 	}
 }

@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item/chain/template_chain",
+  "parent": "minecraft:item/chain/template_chain_in_hand",
   "textures": {
-    "particle": "minecraft:block/chain",
-    "chain": "minecraft:block/chain"
+    "particle": "minecraft:block/iron_chain",
+    "chain": "minecraft:block/iron_chain"
   }
 }

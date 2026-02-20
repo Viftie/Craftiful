@@ -1473,6 +1473,7 @@
   "block.minecraft.creaking_heart": "Creaking Heart",
   "block.minecraft.creeper_head": "Creeper Head",
   "block.minecraft.creeper_wall_head": "Creeper Wall Head",
+
   "block.minecraft.crimson_button": "Crimson Button",
   "block.minecraft.crimson_door": "Crimson Door",
   "block.minecraft.crimson_fence": "Crimson Fence",
@@ -2966,7 +2967,7 @@
   "container.cartography_table": "Cartography Table",
   "container.chest": "",
   "container.chestDouble": "",
-  "container.crafter": "Crafter",
+  "container.crafter": "",
   "container.crafting": "",
   "container.creative": "Item Selection",
   "container.dispenser": "",

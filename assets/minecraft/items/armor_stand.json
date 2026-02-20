@@ -8,7 +8,8 @@
           "model": "minecraft:item/armor_stand"
         },
         "when": [
-          "fixed"
+          "fixed",
+          "on_shelf"
         ]
       },
       {
