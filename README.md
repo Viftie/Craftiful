@@ -26,16 +26,16 @@ The current build of _Craftiful_ has distinguishable Potions, animation to disti
 
 Some models in the game are pretty flat, so we gave them more depth. These blocks include:
 
-all Bar types (except Waxed Copper) • all Door types • all Rail types • all Trapdoor types • Frogspawn • Glow Lichen • Ladder • Leaf Litter • Lily Pad • Resin Clump • Sculk • Spawner • Trial Spawner • Vault • Ominous Vault • Vines • Chains • Brewing Stand
+all Bar types • all Door types • all Rail types • all Trapdoor types • Frogspawn • Glow Lichen • Ladder • Leaf Litter • Lily Pad • Resin Clump • Sculk • Spawner • Trial Spawner • Vault • Ominous Vault • Vines • Chains • Brewing Stand
 
 ## 3D Item Models
 ![3D Item Models](https://cdn.modrinth.com/data/cached_images/a349115f161f9dd2a1528050e023c431c3b3be0f.png)
 
 Isn't it odd that some blocks are displayed as proper blocks, while other have dedicated icon textures? Well, this pack makes these blocks blocky again:
 
-all Bar types (except Waxed Copper) • all Campfire types • all Door types • all Lantern types (except Waxed Copper) • all Torch types • Armor Stand • Bell • Brewing Stand • Cauldron • Flower Pot • Hopper • Lever • Mace (in hand) • Redstone Comparator • Redstone Repeater • Tripwire Hook • and these aren't even all that are planned!
+all Bar types • all Campfire types • all Chain types • all Door types • all Lantern types • all Rail types • all Torch types • Armor Stand • Bell • Brewing Stand • Cauldron • Flower Pot • Hopper • Lever • Mace (in hand) • Redstone Comparator • Redstone Repeater • Tripwire Hook • and these aren't even all that are planned!
 
-And don't worry, most of these will still display as sprites in Item Frames!
+Most of these will still display as sprites in Item Frames!
 
 Fences, Fence Gates and Shelves have also been rotated in the inventory to now face the direction of incoming light.
 
@@ -54,10 +54,10 @@ Looking at the world can feel a bit same-y in Minecraft, so this pack wants to a
 
 Small and nifty tweaks to help you tell your items apart in your inventory. Current additions are:
 
-- shiny Waxed Copper to tell it apart from unwaxed Copper (not including 1.21.9 features)
+- shiny Waxed Copper to tell it apart from unwaxed Copper
 - distinguishable textures for Potions in all variants
-- distinguishable textures for Ominous Bottles
-- distinguishable textures for Paintings
+- distinguishable textures for Ominous Bottle stages
+- distinguishable textures for Paintings in Creative Mode
 - distinguishable textures for Axolotl Buckets
 
 ## Redstone Indicators
@@ -89,7 +89,6 @@ This pack isn't finished yet. Not even close! The future holds many new ways to 
 - distiguishable Enchanted Books
 - a GUI overhaul
 - more variated blocks
-- more 3D items
 - lush foliage
 and much, much more!
 </details>
