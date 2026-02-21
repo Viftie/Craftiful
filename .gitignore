@@ -17,6 +17,7 @@ assets/minecraft/textures/gui/tab_header_background.png
 
 # GUI containers
 assets/minecraft/textures/gui/container/smoker.png
+assets/minecraft/textures/gui/container/furnace.png
 assets/minecraft/textures/gui/container/brewing_stand.png
 assets/minecraft/textures/gui/container/blast_furnace.png
 assets/minecraft/textures/gui/container/cartography_table.png

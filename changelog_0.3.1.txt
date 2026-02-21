@@ -1,0 +1,18 @@
+Craftiful beta version 0.3.1
+for Minecraft Snapshot 1.21.11
+Resource Pack Format 75
+
+
+# Additions
+
+3D Block Models
+- Small Dripleaf 
+
+
+# Fixes
+
+3D Block Models
+- Fully tilted Big Dripleaves now look less wonky, although their shadaing is disabled.
+
+3D Item Models
+- Copper Chains are now displayed properly

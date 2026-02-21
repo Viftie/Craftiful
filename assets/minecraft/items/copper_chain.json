@@ -1,7 +1,35 @@
 {
-	"parent": "item/generated",
-	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:item/chain/copper_chain_in_hand"
-	}
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/copper_chain"
+        },
+        "when": [
+          "fixed"
+        ]
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/chain/copper_chain_in_hand"
+        },
+        "when": [
+            "gui",
+            "ground",
+            "firstperson_righthand",
+            "thirdperson_righthand",
+            "firstperson_lefthand",
+            "thirdperson_lefthand"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/copper_chain"
+    },
+    "property": "minecraft:display_context"
+  }
 }

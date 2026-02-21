@@ -13,7 +13,6 @@
 		{
 			"from": [5, 0, 12],
 			"to": [11, 15, 12],
-			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 12], "rescale": true},
 			"faces": {
 				"north": {"uv": [3, 0, 14, 16], "texture": "#stem"},
@@ -23,7 +22,6 @@
 		{
 			"from": [5, 0, 12],
 			"to": [11, 15, 12],
-			"shade": false,
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 12], "rescale": true},
 			"faces": {
 				"north": {"uv": [14, 0, 3, 16], "texture": "#stem"},
