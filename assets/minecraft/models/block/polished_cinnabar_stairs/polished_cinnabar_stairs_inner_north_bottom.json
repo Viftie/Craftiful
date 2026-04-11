@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/stairs/stairs_inner_north_bottom",
+	"textures": {
+		"full":  "minecraft:block/polished_cinnabar",
+		"south": "minecraft:block/cinnabar/polished_cinnabar_stairs_1",
+		"east":  "minecraft:block/cinnabar/polished_cinnabar_stairs_0",
+        "up":    "minecraft:block/cinnabar/polished_cinnabar_stairs_2"
+	}
+}

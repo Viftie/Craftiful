@@ -1,0 +1,9 @@
+Craftiful beta version 0.4.1
+for Minecraft Snapshot 26.2
+Resource Pack Format 75
+
+
+# Additions
+
+Blocks
+- tiled block textures for Sulfur and Cinnabar Slabs and Stairs
