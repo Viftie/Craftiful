@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "thickness=base,vertical_direction=down": {
+      "model": "minecraft:block/sulfur_spike_down_base"
+    },
+    "thickness=base,vertical_direction=up": {
+      "model": "minecraft:block/sulfur_spike_up_base"
+    },
+    "thickness=frustum,vertical_direction=down": [
+        { "model": "minecraft:block/sulfur_spike_down_frustum" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_frustum_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_frustum_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_frustum_3" }
+    ],
+    "thickness=frustum,vertical_direction=up": [
+        { "model": "minecraft:block/sulfur_spike_up_frustum" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_frustum_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_frustum_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_frustum_3" }
+    ],
+    "thickness=middle,vertical_direction=down": [
+        { "model": "minecraft:block/sulfur_spike_down_middle" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_middle_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_middle_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_middle_3" }
+    ],
+    "thickness=middle,vertical_direction=up": [
+        { "model": "minecraft:block/sulfur_spike_up_middle" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_middle_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_middle_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_middle_3" }
+    ],
+    "thickness=tip,vertical_direction=down": [
+        { "model": "minecraft:block/sulfur_spike_down_tip" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_3" }
+    ],
+    "thickness=tip,vertical_direction=up": [
+        { "model": "minecraft:block/sulfur_spike_up_tip" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_3" }
+    ],
+    "thickness=tip_merge,vertical_direction=down": [
+      { "model": "minecraft:block/sulfur_spike_down_tip_merge" },
+      { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_merge_1" },
+      { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_merge_2" },
+      { "model": "minecraft:block/sulfur_spike/sulfur_spike_down_tip_merge_3" }
+    ],
+    "thickness=tip_merge,vertical_direction=up": [
+        { "model": "minecraft:block/sulfur_spike_up_tip_merge" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_merge_1" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_merge_2" },
+        { "model": "minecraft:block/sulfur_spike/sulfur_spike_up_tip_merge_3" }
+    ]
+  }
+}

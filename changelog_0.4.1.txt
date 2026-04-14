@@ -1,17 +1,16 @@
-Craftiful beta version 0.4.1
-for Minecraft Snapshot 26.2
+Craftiful beta version 0.4.2
+for Minecraft 26.2 Snapshot 3
 Resource Pack Format 84
 
 
- - 0.4.0 -
 
 # Additions
 
-Blocks
-- tiled block textures for Sulfur and Cinnabar Slabs and Stairs
+- variated Sulfur Spikes
 
 
- - 0.4.1 - 
 
-Fixes
-- assigned proper Resource Pack Format
+# Changes
+
+- adjusted Polished Sulfur and Cinnabar for Snapshot 3's changes
+
